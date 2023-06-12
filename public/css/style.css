@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+html, body {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+      padding: -10;
+      background-image: url('https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Blue-White-Background-Image.jpg');
+      background-size: cover;
+      /* background-position: center; */
+      background-repeat: no-repeat;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: 13%; */
+    align-items: center;
+    padding-top: 6%;
+    
+    height: 100%;
+  }
+  .login-form {
+    width: 300px;
+    max-width: 100%;
+  }
+  .logo {
+    margin-bottom: 20px;
+  }
+  .border{
+    /* width: 30%; */
+    /* align-items: center; */
+    /* justify-content: center; */
+  }

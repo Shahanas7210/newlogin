@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin: 0;
+      padding: -10;
+      background-image: url('https://img.freepik.com/premium-photo/keyboard-coffee-smartphone-notebook-color-background-top-view_1286-776.jpg');
+      background-size: cover;
+      /* background-position: center; */
+      background-repeat: no-repeat;
+      background-color: rgba(0, 0, 0, 0.5);
+      height: 100%;
+  }
+
+  .container {
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    padding: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  h2 {
+    text-align: center;
+    
+  }
+  .red-tag,.red-tag:hover{
+    color: red;
+  }
+ label{
+  font-size: 18px;
+  font-weight: 500;
+ }
+ a{
+  font-size: 15px;
+  font-weight: 400;
+ }
